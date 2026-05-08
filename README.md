@@ -13,4 +13,4 @@ Content-Type: application/json
 
 ###
 ### Get Nigeria weather (authenticated)
-GET https://api.openweathermap.org/data/2.5/weather?q=Nigeria&appid=cfd8ca99da2b14f0d59b5b88444c89eb
+GET https://api.openweathermap.org/data/2.5/weather?q=Nigeria&appid=YOUR_API_KEY_HERE
